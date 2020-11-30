@@ -1,0 +1,17 @@
+.red {
+    margin: 4px;
+    background-color: red;
+    height: 50px;
+}
+
+.yellow {
+    margin: 4px;
+    background-color: yellow;
+    height: 50px;
+}
+
+.blue {
+    margin: 4px;
+    background-color: blue;
+    height: 50px;
+}
